@@ -1,0 +1,340 @@
+.heirloom-tomato {
+    position: absolute;
+    top: 24px;
+    left: 184px;
+  }
+  .div,
+  .heirloom-tomato,
+  .lb {
+    line-height: 130%;
+    font-weight: 600;
+  }
+  .div {
+    position: absolute;
+    top: 24px;
+    right: 24px;
+    text-align: right;
+  }
+  .lb {
+    top: 54px;
+    left: 184px;
+    color: var(--color-darkolivegreen);
+  }
+  .icon,
+  .lb,
+  .lb1 {
+    position: absolute;
+  }
+  .lb1 {
+    top: calc(50% - 10.5px);
+    left: 16px;
+    line-height: 130%;
+    font-weight: 600;
+  }
+  .icon {
+    top: calc(50% - 15px);
+    right: 8.1px;
+    width: 32.4px;
+    height: 32.4px;
+  }
+  .input-field {
+    position: absolute;
+    bottom: 24px;
+    left: 184px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-white);
+    border: 2px solid var(--color-gray);
+    box-sizing: border-box;
+    width: 128px;
+    height: 40px;
+    overflow: hidden;
+    font-size: var(--font-size-base);
+  }
+  .ed-o-neil-avvdzlhdowa-unsplash-icon {
+    position: absolute;
+    height: calc(100% + 2.9px);
+    top: 0;
+    bottom: -2.9px;
+    left: -2px;
+    max-height: 100%;
+    width: 162px;
+    object-fit: cover;
+  }
+  .tomato {
+    width: calc(100% - 659px);
+    top: 295.7px;
+    right: 562px;
+    left: 97px;
+    border-radius: var(--br-5xl);
+    background-color: var(--color-whitesmoke);
+    border: 2px solid var(--color-gainsboro);
+    box-sizing: border-box;
+    height: 159px;
+    overflow: hidden;
+    transform: rotate(0.68deg);
+    transform-origin: 0 0;
+  }
+  .icon1,
+  .lb3,
+  .tomato {
+    position: absolute;
+  }
+  .lb3 {
+    top: calc(50% - 10.5px);
+    left: 16px;
+    line-height: 130%;
+  }
+  .icon1 {
+    top: calc(50% - 16px);
+    right: 8px;
+    width: 32px;
+    height: 32px;
+  }
+  .noonbrew-zicb4-ekmak-unsplash-icon {
+    position: absolute;
+    height: calc(100% + 1px);
+    top: 0;
+    bottom: -1px;
+    left: 0;
+    max-height: 100%;
+    width: 160px;
+    object-fit: cover;
+  }
+  .ginger,
+  .onion {
+    position: absolute;
+    width: calc(100% - 659px);
+    top: 491px;
+    right: 563px;
+    left: 96px;
+    border-radius: var(--br-5xl);
+    background-color: var(--color-whitesmoke);
+    border: 2px solid var(--color-gainsboro);
+    box-sizing: border-box;
+    height: 159px;
+    overflow: hidden;
+  }
+  .onion {
+    top: 681px;
+  }
+  .div3,
+  .order-summary,
+  .subtotal {
+    position: absolute;
+    line-height: 130%;
+  }
+  .order-summary {
+    top: 24px;
+    left: 24px;
+    font-size: var(--font-size-xl);
+    font-weight: 600;
+  }
+  .div3,
+  .subtotal {
+    top: 82px;
+  }
+  .subtotal {
+    left: 24px;
+  }
+  .div3 {
+    right: 24px;
+    text-align: right;
+  }
+  .shipping {
+    top: 119px;
+    left: 24px;
+  }
+  .div4,
+  .div5,
+  .shipping,
+  .tax {
+    position: absolute;
+    line-height: 130%;
+  }
+  .div4 {
+    top: 119px;
+    right: 24px;
+    text-align: right;
+  }
+  .div5,
+  .tax {
+    top: 156px;
+  }
+  .tax {
+    left: 24px;
+  }
+  .div5 {
+    right: 24px;
+    text-align: right;
+  }
+  .total {
+    top: 193px;
+    left: 24px;
+  }
+  .continue-to-payment,
+  .div6,
+  .total {
+    position: absolute;
+    line-height: 130%;
+    font-weight: 600;
+  }
+  .div6 {
+    top: 190px;
+    right: 24px;
+    text-align: right;
+  }
+  .continue-to-payment {
+    top: calc(50% - 10px);
+    left: 24px;
+  }
+  .button,
+  .icon3 {
+    position: absolute;
+    overflow: hidden;
+  }
+  .icon3 {
+    top: calc(50% - 16px);
+    right: 16px;
+    width: 32px;
+    height: 32px;
+  }
+  .button {
+    width: calc(100% - 48px);
+    right: 24px;
+    bottom: 24px;
+    left: 24px;
+    border-radius: 8px;
+    background-color: var(--color-darkolivegreen);
+    height: 48px;
+    color: var(--color-white);
+  }
+  .summary {
+    width: calc(100% - 1125px);
+    top: 301px;
+    right: 96px;
+    left: 1029px;
+    border-radius: var(--br-5xl);
+    background-color: var(--color-whitesmoke);
+    border: 2px solid var(--color-gainsboro);
+    box-sizing: border-box;
+    height: 318px;
+    overflow: hidden;
+    font-size: var(--font-size-base);
+  }
+  .basket,
+  .items,
+  .summary {
+    position: absolute;
+  }
+  .items {
+    bottom: 33px;
+    left: 301px;
+    line-height: 130%;
+    font-weight: 300;
+  }
+  .basket {
+    bottom: 16px;
+    left: 96px;
+    font-size: 64px;
+    letter-spacing: -0.02em;
+    line-height: 120%;
+    font-family: var(--font-newsreader);
+  }
+  .divider {
+    position: absolute;
+    width: calc(100% - 190px);
+    right: 95px;
+    bottom: -1px;
+    left: 95px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    border-top: 2px solid var(--color-gainsboro);
+    box-sizing: border-box;
+    height: 2px;
+  }
+  .page-heading {
+    position: absolute;
+    width: 100%;
+    top: 112px;
+    right: 0;
+    left: 0;
+    background-color: var(--color-white);
+    height: 149px;
+    overflow: hidden;
+  }
+  .world-peas {
+    position: absolute;
+    top: 41px;
+    left: 96px;
+    font-size: 32px;
+    letter-spacing: -0.01em;
+    line-height: 100%;
+    font-weight: 500;
+    font-family: var(--font-newsreader);
+    color: var(--color-darkolivegreen);
+    text-align: left;
+  }
+  .newstand,
+  .shop {
+    position: absolute;
+    top: 45.5px;
+    right: 657px;
+    line-height: 130%;
+  }
+  .newstand {
+    right: 532px;
+  }
+  .who-we-are {
+    top: 45.5px;
+    right: 394px;
+  }
+  .basket-3,
+  .my-profile,
+  .who-we-are {
+    position: absolute;
+    line-height: 130%;
+  }
+  .my-profile {
+    top: 45.5px;
+    right: 270px;
+  }
+  .basket-3 {
+    top: calc(50% - 10.5px);
+    left: calc(50% - 40px);
+    font-weight: 600;
+  }
+  .cart-button,
+  .navigation {
+    position: absolute;
+    overflow: hidden;
+  }
+  .cart-button {
+    top: 32px;
+    right: 96px;
+    border-radius: 4px;
+    background-color: var(--color-darkolivegreen);
+    width: 126px;
+    height: 48px;
+    color: var(--color-white);
+  }
+  .navigation {
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 112px;
+    text-align: center;
+    font-size: var(--font-size-base);
+  }
+  .shopping-cart {
+    position: relative;
+    background-color: var(--color-white);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 100%;
+    height: 1069px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  
